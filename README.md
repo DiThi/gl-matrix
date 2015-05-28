@@ -1,7 +1,10 @@
+
+**This is a temporary package, switch to gl-matrix when it's updated, or use gl-matrix-\* instead.**
+
 glMatrix
 =======================
 
-Javascript has evolved into a language capable of handling realtime 3D graphics, 
+Javascript has evolved into a language capable of handling realtime 3D graphics,
 via WebGL, and computationally intensive tasks such as physics simulations.
 These types of applications demand high performance vector and matrix math,
 which is something that Javascript doesn't provide by default.
@@ -18,5 +21,5 @@ For documentation, news, tutorials, and more visit the [glMatrix Homepage](http:
 
 Contributing
 ----------------------
-Contributions are welcome! Please make pull requests agains the `dev` branch, 
+Contributions are welcome! Please make pull requests agains the `dev` branch,
 and please provide unit tests for new functionality. (See TESTING.md for details)
